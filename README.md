@@ -8,6 +8,7 @@ Demo
 
 Here is a screenshot of the running application:
 
+<img width="1907" height="785" alt="Screenshot 2025-10-07 202539" src="https://github.com/user-attachments/assets/024b1a40-5bdf-43f6-b68d-f809c3d7853c" />
 
 Real-time Sentiment Prediction: Enter any text and get an instant sentiment classification.
 
