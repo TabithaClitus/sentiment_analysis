@@ -58,6 +58,6 @@ Base Model: We used the pre-trained distilbert-base-uncased model as a starting 
 
 Fine-Tuning: Using the Hugging Face Trainer API, we fine-tuned the base model on the airline tweet dataset for 3 epochs. This process specialized the model for the task of sentiment analysis in this specific context.
 
-Evaluation: The best-performing model (from epoch 2) achieved a validation accuracy of 73.75%. This model was saved and is the one used in the Streamlit application.
+Evaluation: The best-performing model (from epoch 2) achieved a validation accuracy of 73.75%. This model was saved and is the one used in the Gradio application.
 
 
